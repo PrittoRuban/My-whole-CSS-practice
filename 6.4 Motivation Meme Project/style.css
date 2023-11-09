@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+h1{
+    color: violet;
+    font-size: 3rem;
+}
+h2{
+    color: violet;
+}
+div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: aqua;
+    text-align: center;
+}
+img{
+    border: 5px solid white;
+    width: 100%;
+}
